@@ -161,3 +161,4 @@ if st.session_state.history:
     if st.button("Clear history"):
         st.session_state.history = []
         st.rerun()
+        
