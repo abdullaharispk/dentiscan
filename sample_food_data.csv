@@ -1,0 +1,41 @@
+food_name,category,sugar_g_100g,carbs_g_100g,fiber_g_100g,is_acidic,sticky_texture
+Apple,fruit,10.4,13.8,2.4,0,0
+Banana,fruit,12.2,22.8,2.6,0,0
+Orange,fruit,9.4,11.8,2.4,1,0
+Lemon,fruit,2.5,9.3,2.8,1,0
+Grapes,fruit,16.0,18.1,0.9,1,0
+Raisins,fruit,59.2,79.2,3.7,0,1
+Milk (whole),dairy,4.8,4.8,0.0,0,0
+Yogurt (plain),dairy,4.7,4.7,0.0,0,0
+Cheddar cheese,dairy,0.5,1.3,0.0,0,0
+Ice cream,dairy,21.2,23.6,0.7,0,1
+Chocolate (milk),sweets,51.5,59.4,3.4,0,1
+Dark chocolate,sweets,24.0,45.9,10.9,0,1
+Candy (hard),sweets,98.0,98.0,0.0,0,1
+Gummy candy,sweets,46.0,77.0,0.0,0,1
+Cookies,sweets,29.0,64.0,2.5,0,1
+Cake,sweets,35.0,55.0,1.2,0,1
+Honey,sweets,82.1,82.4,0.2,1,1
+Soft drink (cola),beverage,10.6,10.6,0.0,1,0
+Orange juice,beverage,8.4,10.4,0.2,1,0
+Sports drink,beverage,6.0,6.0,0.0,1,0
+Black coffee,beverage,0.0,0.0,0.0,1,0
+Green tea,beverage,0.0,0.3,0.0,0,0
+Water,beverage,0.0,0.0,0.0,0,0
+Potato chips,snack,0.2,53.0,4.8,0,0
+Popcorn (plain),snack,0.9,74.3,14.5,0,0
+White bread,grain,5.7,49.0,2.7,0,1
+Whole wheat bread,grain,5.6,41.0,7.0,0,1
+Brown rice,grain,0.4,23.0,1.8,0,0
+White rice,grain,0.1,28.0,0.4,0,0
+Pasta (cooked),grain,0.6,25.0,1.8,0,0
+Egg (boiled),protein,1.1,1.1,0.0,0,0
+Chicken breast,protein,0.0,0.0,0.0,0,0
+Almonds,nuts,4.4,21.6,12.5,0,0
+Peanut butter,nuts,9.2,20.0,6.0,0,1
+Carrot,vegetable,4.7,9.6,2.8,0,0
+Broccoli,vegetable,1.7,6.6,2.6,0,0
+Tomato,vegetable,2.6,3.9,1.2,1,0
+Pickles,vegetable,3.0,4.7,1.2,1,0
+Vinegar-based salad dressing,condiment,1.5,2.7,0.0,1,0
+Ketchup,condiment,21.0,26.0,0.3,1,1
